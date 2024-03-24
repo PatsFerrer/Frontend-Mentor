@@ -4,13 +4,12 @@ Este repositório contém os projetos que eu desenvolvi como desafios do Fronten
 
 ## Desafios Concluídos
 
-### Nome do Projeto 1
-Huddle landing page with a single introductory section
+### QR code component
 
 - [Demo](https://patsferrer.github.io/qr-code-component/)
 - [Repositório](https://github.com/PatsFerrer/qr-code-component)
 
-### Nome do Projeto 2
+### Huddle landing page
 Huddle landing page with a single introductory section
 
 - [Demo](https://patsferrer.github.io/Frontend-Mentor/huddle-landing-page-with-single-introductory-section-master/)
