@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 16px;
+    /* font-family: 'Poppins', sans-serif; */
+}
+
+:root{
+    --violet: hsl(257, 40%, 49%);
+    --magenta: hsl(300, 69%, 71%);
+    --headings-font: 'Poppins', sans-serif;
+    --body-font: 'Open Sans', sans-serif;
+}
